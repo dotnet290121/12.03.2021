@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\QueuePatternFriday\QueuePatternFriday\bin\Debug\QueuePatternFriday.exe.config
+C:\Users\User\source\repos\QueuePatternFriday\QueuePatternFriday\bin\Debug\QueuePatternFriday.exe
+C:\Users\User\source\repos\QueuePatternFriday\QueuePatternFriday\bin\Debug\QueuePatternFriday.pdb
+C:\Users\User\source\repos\QueuePatternFriday\QueuePatternFriday\obj\Debug\QueuePatternFriday.csprojAssemblyReference.cache
+C:\Users\User\source\repos\QueuePatternFriday\QueuePatternFriday\obj\Debug\QueuePatternFriday.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QueuePatternFriday\QueuePatternFriday\obj\Debug\QueuePatternFriday.exe
+C:\Users\User\source\repos\QueuePatternFriday\QueuePatternFriday\obj\Debug\QueuePatternFriday.pdb
